@@ -6,7 +6,7 @@
 - Pygame 1.9.6 (consigliato), per maggiori informazioni: https://www.pygame.org/download.shtml
 
 ## Info
-- Questa è un unione di diversi minigiochi creati durante l'estate; si è cercato di svilupparsi in ogni ambito di giochi, passando da un gioco di carte e un gioco classico, PacMan
+- Questa è un unione di diversi minigiochi creati durante l'estate; si è cercato di svilupparsi in ogni ambito di giochi, passando da un gioco di carte e un gioco classico come Snake
 
 ## Prossimi aggiornamenti:
 - Aggiunta schermata Records con i punteggi migliori di ogni gioco
